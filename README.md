@@ -41,8 +41,8 @@ Activated pending policies with unique policy numbers. Constraints: One user can
 ### Installation
 ```bash
 # Clone repository
-git clone <your-repo-url>
-cd my-cover-genius
+git clone https://github.com/dEnchanter/mini-insuretech-api.git
+cd <into-directory>
 
 # Install dependencies
 npm install
